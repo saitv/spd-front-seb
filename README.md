@@ -1,1 +1,6 @@
-# spd-front-seb
+# Sp-Designer
+Env containing:
+- Java
+- Maven
+- Node & Npm
+- Headless Chrome 
